@@ -24,27 +24,8 @@ A customizable two-player web game where players connect dots to complete square
 
 ## 🚀 Play Now
 
-**[Click here to play!](https://YOUR_USERNAME.github.io/dots-and-boxes)**
+**(https://asaadaqeel.github.io/dots-and-boxes-game/)**
 
-Or visit: `https://YOUR_USERNAME.github.io/dots-and-boxes`
-
-## 💻 Local Setup
-
-To run locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/dots-and-boxes.git
-
-# Navigate to folder
-cd dots-and-boxes
-
-# Open in browser
-# Or run a local server:
-node server.js
-```
-
-Then open `http://localhost:8080` in your browser.
 
 ## 🎨 Customization
 
@@ -85,7 +66,7 @@ This project is open source and available under the MIT License.
 
 ## 🙏 Credits
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by [Asaad Aqeel]
 
 ---
 
