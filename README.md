@@ -2,7 +2,6 @@
 
 A customizable two-player web game where players connect dots to complete squares and earn points.
 
-![Game Screenshot](screenshot.png)
 
 ## 🌟 Features
 
